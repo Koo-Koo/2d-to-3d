@@ -10,8 +10,8 @@ Convert multi-person pose from video to .blend with Jupyter Notebook
 1. Conversion of video to images
 2. 2d pose estimation from images [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) is used for estimation.
 3. 3d pose estimation. [Fork](https://github.com/Koo-Koo/hmr) of [End-to-end Recovery of Human Shape and Pose](https://github.com/akanazawa/hmr)
-4. Conversion of estimated .csv files to .bvh with help of python script and .blend file. [Fork](https://github.com/Koo-Koo/hmr) of [video_to_bvh](https://github.com/Dene33/video_to_bvh)
-5. Conversion of multiple .bvh files to single .blend files with help of python script and .blend file.
+4. Conversion of estimated .csv files to .bvh with additional *ground position of human.* [Fork](https://github.com/Koo-Koo/hmr) of [video_to_bvh](https://github.com/Dene33/video_to_bvh)
+5. Conversion of *multiple .bvh files to single .blend files* with help of python script and .blend file.
 
 
 ## Installation
