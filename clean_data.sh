@@ -6,4 +6,5 @@ rm openpose/sample_videos/*
 rm hmr/output/bvh_animation/*
 rm hmr/output/csv/*
 rm hmr/output/csv_joined/*
-rm hmr/output/images/*
+rm cali/*
+rm cali/center/*
