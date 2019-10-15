@@ -21,8 +21,36 @@ Convert multi-person pose from video to .blend with Jupyter Notebook
    -  Refer requirements and installation guide at [HMR](https://github.com/akanazawa/hmr)
 3. Get [Blender](https://www.blender.org/) and [Makehuman](http://www.makehumancommunity.org)
     - You should install `MakeHuman plugin for blender` and `Mhx2 - MakeHuman eXchange` to use .mhx2 model
-    - You can use your own .mhx2 file instead of .mhx2 files in `sample_model`
+    - You can use your own .mhx2 file instead of .mhx2 files in `sample_model`  
+4. Please make additional directories for outputs.      
+    - ```
+        mkdir cali
+        mkdir cali/center
+        mkdir openpose/sample_videos
+        mkdir openpose/sample_jsons
+        mkdir openpose/sample_images
+        mkdir hmr/output
+        mkdir hmr/output/bvh_animation
+        mkdir hmr/output/csv
+        mkdir hmr/csv_joined
+        ```
 
+After setting, directory should look like this:  
+```
+graduation-project
+└─ cali
+  └─ center
+└─ openpose
+   └─ sample_videos
+   └─ sample_jsons
+   └─ sample_images
+└─ hmr
+  └─ output
+    └─ bvh_animation
+    └─ csv
+    └─ csv_joined
+└─ ...  
+```  
 
 ## Usage
 After installation just follow explantory text of `2d_to_3d.ipynb` Jupyter Notebook.
