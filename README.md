@@ -52,10 +52,18 @@ After installation just follow explantory text of `2d_to_3d.ipynb` Jupyter Noteb
 
 ![img1](https://github.com/Koo-Koo/graduation-project/blob/master/result_image/sq2_original.gif)
 
-* .blend file
+* bvh file
 
-![img2](https://github.com/Koo-Koo/graduation-project/blob/master/result_image/sq2_result.gif)
+![img2](https://github.com/Koo-Koo/graduation-project/blob/master/result_image/squash2-final.gif)
 
-* .blend rendered with Makehuman model
+* input video2
 
-![img3](https://github.com/Koo-Koo/graduation-project/blob/master/result_image/sq_rendered.gif)
+![img3](https://github.com/Koo-Koo/graduation-project/blob/master/result_image/{}.gif)
+
+* bvh file
+
+![img4](https://github.com/Koo-Koo/graduation-project/blob/master/result_image/badminton-final.gif)
+
+* blend file rendered with Makehuman model
+
+![img5](https://github.com/Koo-Koo/graduation-project/blob/master/result_image/badminton-final-model.gif)
