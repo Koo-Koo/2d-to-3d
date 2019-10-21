@@ -58,7 +58,7 @@ After installation just follow explantory text of `2d_to_3d.ipynb` Jupyter Noteb
 
 * input video2
 
-![img3](https://github.com/Koo-Koo/graduation-project/blob/master/result_image/{}.gif)
+![img3](https://github.com/Koo-Koo/graduation-project/blob/master/result_image/badminton-original.gif)
 
 * bvh file
 
